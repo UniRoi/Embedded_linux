@@ -1,0 +1,5 @@
+# add filetypes for git to ignore
+
+*.d
+*.o
+*.a
